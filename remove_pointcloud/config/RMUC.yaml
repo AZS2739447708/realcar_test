@@ -1,0 +1,8 @@
+/RemovePointcloud: #类中节点名
+  ros__parameters: 
+    dis_diff: 0.12
+    filename: "/home/auto/Navi_PCD/RM2025_55w.pcd" #RMUC
+    # filename: "/home/auto/Navi_PCD/new_world.pcd" #new world
+    # filename: "/home/auto/Navi_PCD/test_home_2.pcd" #xinchangdi
+    # filename: "/home/auto/Navi_PCD/PCD/test_home_change.pcd" #xinchagndi duimian
+
